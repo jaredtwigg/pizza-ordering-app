@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pizza-ordering-app/static/css/main.72ccd27b.css",
+    "main.js": "/pizza-ordering-app/static/js/main.18e0d1af.js",
+    "static/media/pizza.jpeg": "/pizza-ordering-app/static/media/pizza.a144196d0522c5eca810.jpeg",
+    "index.html": "/pizza-ordering-app/index.html",
+    "main.72ccd27b.css.map": "/pizza-ordering-app/static/css/main.72ccd27b.css.map",
+    "main.18e0d1af.js.map": "/pizza-ordering-app/static/js/main.18e0d1af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72ccd27b.css",
+    "static/js/main.18e0d1af.js"
+  ]
+}
